@@ -1,0 +1,12 @@
+Initial Router Configuration Lab
+Nathan Fitzsimmons
+
+In this Cisco Packet Tracer lab we will configure two 2911 routers:
+- Install HWIC-1GE-SFP and GLC-H-SMD Small Form-Factor Pluggable Gigabit Ethernet ports.
+- Configure Hostnames for each router.
+- Connect the routers with a fiber connection on the newly installed SFP interfaces.
+- Plan and choose the correct subnet for the network.
+- Configure the newly installed SFP interfaces with IP addresses.
+- Write configuration to file.
+
+Test

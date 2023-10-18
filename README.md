@@ -23,6 +23,7 @@
 > * IP Routing
 <br>
 
+<!--
 > **Number. [Entry Template](URL)** <br>
 > <sub>Description of the lab<br>
 > **New skills practiced in this lab:** </sub>
@@ -30,6 +31,17 @@
 > * Skill 2
 > * Skill 3
 <br>
+-->
 
+### Cisco CCNA Packtet Tracer Labs by Nathan Fitzsimmons <br>
 ----------
+**1. [Router Configuration](https://github.com/nathanfitzsimmons2010/nathanfitzsimmons2010.github.io/blob/main/Initial-Router-Configuration-Lab.pdf)** <sub>Skills: Layer 3, Routers, IP adressing, Subnetting. </sub> <br>
+**2. [Switch Configuration](https://github.com/nathanfitzsimmons2010/)** <sub>Skills: Layer 2, Switches, IP Routing. <sub> <br>
+
+<!-- 
+**Number. [Condensed Entry Template](https://github.com/nathanfitzsimmons2010/)** <sub>Skills: a, b, c. <sub> <br> 
+-->
+
+
+
 

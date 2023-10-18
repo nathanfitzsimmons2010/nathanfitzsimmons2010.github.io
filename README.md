@@ -9,6 +9,7 @@
     **Skills practiced in this lab:**
    * Layer 3
    * Routers
+   * IP Addresses
    * Subnetting
     
-**2. [Initial Switch Configuration Lab](www.google.com)**
+**2. [Initial Switch Configuration Lab]()**

@@ -44,7 +44,7 @@ Github: [github.com/nathanfitzsimmons2010](https://github.com/nathanfitzsimmons2
 
 **1. [Router Configuration](https://github.com/nathanfitzsimmons2010/nathanfitzsimmons2010.github.io/blob/main/Initial-Router-Configuration-Lab.pdf)** *Skills: Layer 3, Routers, IP adressing, Subnetting.*
 <br>
-**2. [Switch Configuration](https://github.com/nathanfitzsimmons2010/)** *Skills: Layer 2, Switches, IP Routing.*
+**2. [Switch Configuration](https://github.com/nathanfitzsimmons2010/nathanfitzsimmons2010.github.io/blob/main/2.%20Switch%20Configuration.pdf)** *Skills: Layer 2, Switches, IP Routing, Static Routes.*
 <br>
 
 <!-- 

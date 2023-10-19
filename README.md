@@ -46,6 +46,7 @@ Github: [github.com/nathanfitzsimmons2010](https://github.com/nathanfitzsimmons2
 <br>
 **2. [Switch Configuration](https://github.com/nathanfitzsimmons2010/nathanfitzsimmons2010.github.io/blob/main/2.%20Switch%20Configuration.pdf)** *Skills: Layer 2, Switches, IP Routing, Static Routes.*
 <br>
+**3. [Configure Username and Password](https://github.com/nathanfitzsimmons2010/nathanfitzsimmons2010.github.io/blob/main/3.%20Configure%20Username%20and%20Password.pdf)** <sub>Skills: Network Security. <sub> <br>
 
 <!-- 
 **Number. [Condensed Entry Template](https://github.com/nathanfitzsimmons2010/)** <sub>Skills: a, b, c. <sub> <br> 

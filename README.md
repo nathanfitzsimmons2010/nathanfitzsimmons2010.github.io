@@ -39,10 +39,10 @@ Github: [github.com/nathanfitzsimmons2010](https://github.com/nathanfitzsimmons2
 <br>
 -->
 ----------
-# Cisco CCNA Packtet Tracer Labs
+# Cisco CCNA Packet Tracer Labs
 *In this series of labs, I construct a virtual network lab using Cisco's Packet Tracer.  Documenting the process and guiding you through it, step by step. The aim is to demonstrate my networking skills and knowledge, while highlighting my attention to detail and written communication.*
 
-**1. [Router Configuration](https://github.com/nathanfitzsimmons2010/nathanfitzsimmons2010.github.io/blob/main/1.%20Router%20Configuration.pdf)** - *Skills: Layer 3, Routers, IP adressing, Subnetting.*
+**1. [Router Configuration](https://github.com/nathanfitzsimmons2010/nathanfitzsimmons2010.github.io/blob/main/1.%20Router%20Configuration.pdf)** - *Skills: Layer 3, Routers, IP addressing, Subnetting.*
 <br>
 **2. [Switch Configuration](https://github.com/nathanfitzsimmons2010/nathanfitzsimmons2010.github.io/blob/main/2.%20Switch%20Configuration.pdf)** - *Skills: Layer 2, Switches, IP Routing, Static Routes.*
 <br>

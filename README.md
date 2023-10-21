@@ -48,7 +48,8 @@ Github: [github.com/nathanfitzsimmons2010](https://github.com/nathanfitzsimmons2
 <br>
 **3. [Configure Username and Password](https://github.com/nathanfitzsimmons2010/nathanfitzsimmons2010.github.io/blob/main/3.%20Configure%20Username%20and%20Password.pdf)** - *Skills: Network Security.*
 <br>
-
+**4. [Dynamic Host Configuration Protocol](https://github.com/nathanfitzsimmons2010/nathanfitzsimmons2010.github.io/blob/main/4.%20Dynamic%20Host%20Configuration%20Protocol%20(DHPC).pdf)** - *Skills: DHCP, IP Routing, Network Security.*
+<br> 
 <!-- 
 
 **Number. [Condensed Entry Template](https://github.com/nathanfitzsimmons2010/)** - *Skills: a, b, c.*
